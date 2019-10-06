@@ -1,0 +1,44 @@
+.bg-primary {
+  background: linear-gradient(to bottom right, #007bff 0%, #66ffcc 100%) !important;
+}
+
+ul {
+  border-color: #99ffcc !important;
+}
+
+.ul-text-color {
+    color: #007bff !important;
+}
+
+.plano1 {
+  color: white !important;
+  background: linear-gradient(to top left, #007bff 0%, #66ff99 134%) !important;
+}
+
+.plano2 {
+  color: white !important;
+  background: linear-gradient(to top left, #007bff 0%, #66ff99 124%) !important;
+}
+
+.plano3 {
+  color: white !important;
+  background: linear-gradient(to top left, #007bff 0%, #66ff99 114%) !important;
+}
+.btn-outline-primary{
+  background-color: white !important;
+}
+
+.btn-outline-primary:hover{
+  background-color: #4ABDFF !important;
+  color: white !important;
+}
+
+.sobre img{
+  width: 220px;
+  height: 220px;
+}
+
+.depoimentos img{
+  width: 220px;
+  height: 220px;
+}
